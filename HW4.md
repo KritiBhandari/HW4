@@ -59,7 +59,9 @@ HW #1 ADVANCED DOCKER
 
 ###FILE ACCESS
 > For the file transfer, socat is used on the DockerServer
-    socat tcp-l:9001,reuseaddr,fork system:'cat /TestFile.txt’,nofork
+> 
+     socat tcp-l:9001,reuseaddr,fork system:'cat /TestFile.txt’,nofork
+> 
 > On the port 9001 the file would be make available
 > The nofork option allows a child process to be created every time a
 > curl is done from DockerClient
