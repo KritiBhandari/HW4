@@ -20,7 +20,7 @@ HW #1 ADVANCED DOCKER
 > Useful link: 
 >     http://linoxide.com/linux-how-to/install-upgrade-docker-1-7/
 > 
->   
+ 
 
 ###DOCKER FILE
 > A Docker file is created in order to build an image and then use it in order 
@@ -66,7 +66,7 @@ HW #1 ADVANCED DOCKER
 
 
 ###Screencast
-![gif Recording]:https://www.youtube.com/watch?v=_1jWEUwFoeM
+https://www.youtube.com/watch?v=_1jWEUwFoeM
 
 
 *TASK 2*
@@ -151,7 +151,7 @@ returns
     cba
 
 ###Screencast
-![gif Recording]https://www.youtube.com/watch?v=lPRbD7nG2h4
+https://www.youtube.com/watch?v=lPRbD7nG2h4
 
 
 *TASK 3*
@@ -213,7 +213,7 @@ returns
 
 
 ###Screencast
-![gif Recording]: https://www.youtube.com/watch?v=cVi01riGrR0&feature=youtu.be
+https://www.youtube.com/watch?v=cVi01riGrR0&feature=youtu.be
 
 
 
